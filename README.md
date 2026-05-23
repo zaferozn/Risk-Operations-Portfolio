@@ -28,10 +28,12 @@ I am building this portfolio to demonstrate how my experience in evidence review
 
 ## Repository Structure
 
+```text
 concepts/
 simulated-cases/
 templates/
 glossary/
+```
 
 ## Current Goal
 
