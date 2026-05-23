@@ -20,6 +20,11 @@ My background includes correctional security operations, operational record trac
 
 I am building this portfolio to demonstrate how my experience in evidence review, procedural documentation, monitoring, and structured reporting can transfer into risk, financial crime, due diligence, and security operations.
 
+## Training
+
+- Operational Analysis of Suspicious Transaction Reports — Basel Institute on Governance / International Centre for Asset Recovery, 2026
+  - Completed introductory training on STR review, hypothesis building, information collection, FIU database review logic, likelihood and consequence assessment, and evidence-based reporting.
+
 ## Repository Structure
 
 concepts/
