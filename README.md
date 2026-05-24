@@ -24,8 +24,14 @@ I am building this portfolio to demonstrate how my experience in evidence review
 
 - **Operational Analysis of Suspicious Transaction Reports**  
   Basel Institute on Governance / International Centre for Asset Recovery, 2026  
-  Completed introductory training on STR review, hypothesis building, information collection, FIU database review logic, likelihood and consequence assessment, and evidence-based reporting.
+  Completed introductory training on STR review, hypothesis building, information collection, source evaluation, FIU database review logic, likelihood and consequence assessment, financial flow analysis, reporting, and dissemination.
 
+## Related Portfolio Notes
+
+- [STR Operational Analysis Workflow](concepts/str-operational-analysis-workflow.md)
+- [Suspicious Transaction Reporting Basics](concepts/suspicious-transaction-reporting-basics.md)
+- [Cash-Intensive Business Review Case](simulated-cases/case-005-cash-intensive-business-review.md)
+- 
 ## Repository Structure
 
 ```text
