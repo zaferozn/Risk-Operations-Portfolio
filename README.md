@@ -31,7 +31,7 @@ I am building this portfolio to demonstrate how my experience in evidence review
 - [STR Operational Analysis Workflow](concepts/str-operational-analysis-workflow.md)
 - [Suspicious Transaction Reporting Basics](concepts/suspicious-transaction-reporting-basics.md)
 - [Cash-Intensive Business Review Case](simulated-cases/case-005-cash-intensive-business-review.md)
-- 
+  
 ## Repository Structure
 
 ```text
