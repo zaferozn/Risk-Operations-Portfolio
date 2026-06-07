@@ -40,6 +40,19 @@ Within a short period, the following activity was observed:
 
 ---
 
+## Simulated Evidence
+
+| Time | Event Type | Detail |
+|---|---|---|
+| 09:12 | Failed login | Multiple failed login attempts observed against the customer account |
+| 09:15 | Successful login | Successful login from a new device and unusual location |
+| 09:18 | Profile change | Customer contact details were updated shortly after login |
+| 09:23 | Beneficiary creation | Two new beneficiaries were added to the account |
+| 09:31 | Outgoing transfer | First outgoing transfer initiated to a newly added beneficiary |
+| 09:39 | Outgoing transfer | Second outgoing transfer initiated to another newly added beneficiary |
+
+---
+
 ## Key Observations
 
 | Indicator | Observation | Risk Relevance |
@@ -148,9 +161,13 @@ This case should be escalated for further investigation to determine whether the
 
 ## Final Decision
 
-The case should be escalated.
+## Final Decision
 
-The reviewed indicators are not sufficient to confirm financial crime, but they are sufficient to justify enhanced review due to the combination of account takeover indicators, suspicious transaction behavior, and possible mule account risk.
+Escalation is recommended.
+
+The reviewed indicators are not sufficient to confirm financial crime or unauthorized access. However, the combination of failed-to-successful login activity, new device access, profile change, beneficiary creation, and rapid outgoing transfers is sufficient to justify enhanced review.
+
+The case should be referred to the appropriate fraud, AML, or cyber financial crime investigation team according to internal procedures.
 
 ---
 
