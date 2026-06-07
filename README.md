@@ -1,6 +1,12 @@
 # Risk Operations Portfolio
 
-This repository documents my transition into risk, financial crime, due diligence, fraud-risk, and security operations through case-based notes and structured reporting practice.
+## Portfolio Positioning
+
+This repository is designed as a secondary risk operations portfolio that supports my main transition into SOC Analyst and Security Operations roles while also keeping a compatible pathway open for AML/KYC, Financial Crime, Due Diligence, and Risk Operations positions.
+
+My primary direction remains SOC, log analysis, alert triage, incident documentation, and cyber threat investigation. This portfolio strengthens the investigation side of that profile by documenting suspicious pattern recognition, customer/profile mismatch review, adverse media logic, cyber-enabled financial crime indicators, and escalation-quality reporting.
+
+The purpose of this repository is not to move away from cybersecurity, but to build a bridge between security operations, fraud-risk investigation, AML/KYC review, and cyber financial crime analysis.
 
 ## Focus Areas
 
